@@ -1,0 +1,5 @@
+@media only screen and (max-height: 600px) {
+  .panel {
+    margin-top: 1.5rem;
+  }
+}
